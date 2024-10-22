@@ -33,6 +33,7 @@ ruleset=油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cl
 ruleset=国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
 ;ruleset=全球直连,[]GEOIP,LAN
+ruleset=国外媒体,[]GEOSITE,geolocation-!cn
 ruleset=全球直连,[]GEOIP,CN
 ruleset=漏网之鱼,[]FINAL
 
