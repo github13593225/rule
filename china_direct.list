@@ -3,6 +3,7 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,right.com.cn
+DOMAIN-SUFFIX,6v520.com/
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -596,3 +597,4 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
